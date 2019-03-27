@@ -1,0 +1,25 @@
+About
+Walk in the shoes of a Data Scientist (the most sought after job of the century) by using innovative approaches, statistical analysis and cutting-edge machine learning & deep learning algorithms to get the best predictions to top the real-time leaderboard.
+
+This year the modelling competition deals with 'Bibliotheca E-Book Subscription Prediction'. The competition has been designed for the participants to explore machine learning algorithms for this recommendation problem and provide a platform to showcase their machine learning skills.
+
+Problem Statement   
+
+Bibliotheca is a platform that gives its users an exclusive chance to subscribe to E-books at discounted price. Users can also get a preview of the books by reading a sample of pages even before they buy subscription for any specific book. Each purchase for the subscription gives users access to the relevant E-book for a fixed period.
+
+We have information about all the books that a User has previewed/purchased subscription for; on the platform in the past and the problem statement asks you to predict the ordered set 10 most probable books from the test set, the user is going to buy in the coming weeks.
+
+To participate in the competition please register your team on the Dlabs Registration Page.
+
+
+Evaluation                                                                                                                                              
+
+For this competition, you need to predict the right books that User is most likely to buy out of the books lying in test-dataset, and every correct prediction for the user rewards you; your overall task is to Maximize the rewards point to win.
+
+For ith User who has bought 'm' books in the coming weeks where2019-03-05_12-58-19.jpgis fraction of correct books identified in top-k books prediction; with 'n' books (here n=10) recommended for the user: 2019-03-05_12-09-47.jpg
+
+Winners will be decided for each of the location based on highest total Model Score achieved by the team. In case of a tie (for top 3 ranks), the following criteria (in the same order) will be used:
+
+(1.) Number of Users with a Predicted E-Book
+(2.) Submission provided earlier will get priority
+Both the above criteria will be used only in case of tie and in the given order while awarding a better rank.
